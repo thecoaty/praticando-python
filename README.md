@@ -6,6 +6,7 @@
 <h2 > Cursos finalizados:</h2>
 <li>Praticando Python: condicionais if, elif e else</li>
 <li>Praticando Python: laços for e while</li> 
+<li>Praticando Python: funções</li>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
