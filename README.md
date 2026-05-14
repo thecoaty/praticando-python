@@ -1,13 +1,33 @@
-<h1 align="center">Exercicios praticos de python</h1>
-<p align="center">
-  Registro dos exercicios feitos com base na carreira back-end de python da Alura.
-</p>
-<br>
-<h2 > Cursos finalizados:</h2>
-<li>Praticando Python: condicionais if, elif e else</li>
-<li>Praticando Python: laços for e while</li> 
-<li>Praticando Python: funções</li>
+# Repositório de Projetos e Exercícios de Python
 
-<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+
+> Projetos e exercícios desenvolvidos para praticar Python, lógica de programação e conceitos de back-end.
+
+---
+
+## 📘 Exercícios Práticos
+
+Registro dos exercícios realizados na formação Back-End em Python da Alura, incluindo os cursos:
+
+- Praticando Python: condicionais if, elif e else
+- Praticando Python: laços for e while
+- Praticando Python: funções
+- Praticando Python: trabalhando com projetos
+
+---
+
+## 📚 Projetos
+
+### 🍽️ sabor-express
+Projeto do curso Python: crie a sua primeira aplicação da Alura.
+
+- Registro de restaurantes
+- Alteração de status
+- Listagem de dados no terminal
+
+---
+
+## 🚀 Objetivo
+
+Praticar programação, desenvolver projetos e acompanhar minha evolução nos estudos de Python.
